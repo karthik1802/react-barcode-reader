@@ -1,5 +1,5 @@
 # React-Barcode-Reader
-React Barcode reader using Quagga2
+React Barcode reader using Quagga2.<br />
 Demo Link - http://ak-barcode-reader.s3-website.ap-south-1.amazonaws.com/
 
 ## Installation
